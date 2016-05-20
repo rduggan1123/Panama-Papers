@@ -32,4 +32,20 @@ margin-bottom:25px;
 .questionText{
 font-weight:bold;
 font-size: 18px;
+color:#232A31;
+}
+
+#submit{
+width:150px;
+height:40px;
+margin:auto;
+background-color:#248ECA;
+border-radius:10px;
+color:#FFFFFF;
+font-weight:bold;
+font-size:15px;
+}
+
+.buttonWrap{
+text-align:center;
 }
